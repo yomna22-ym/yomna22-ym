@@ -5,8 +5,13 @@
 </p>
 
 <p align="center">
+  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=yomna22-ym&label=Profile%20views&color=F779B0&style=flat" alt="Profile Views" />
 </p>
+
 
 ---
 

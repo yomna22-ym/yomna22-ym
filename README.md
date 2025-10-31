@@ -19,7 +19,6 @@
 
 - 🎓 I'm a Computer Science graduate passionate about mobile app development.
 - 💙 I build Flutter apps that make real-world impact.
-- 🧠 Currently working on a **Skin Cancer Detection App** using AI (TFLite + FastAPI).
 - 🌱 Learning Clean Architecture, API Integration, and App UI/UX design.
 - 💬 Ask me about Flutter, Firebase, Dart, or Clean MVVM apps.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yomna-muhammed-78b31535b) | yomnamuhammed984@gmail.com
